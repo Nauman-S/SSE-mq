@@ -1,0 +1,5 @@
+com\example\PB\service\RabbitMqPublisher.class
+com\example\PB\batch\PushBatch.class
+com\example\PB\PbApplication.class
+com\example\PB\domain\CustomMessage.class
+com\example\PB\config\RabbitConfig.class
